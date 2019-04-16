@@ -1,2 +1,8 @@
-# The Road To Learning Python
-Python的学习历程、总结分享、人工智能应用探索！
+# Anicle
+
+Stay hungry , Stay foolish . Let science and technology change the world !
+
+Python学习、数据科学、人工智能应用探索！
+
+
+
